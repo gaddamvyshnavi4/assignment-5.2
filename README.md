@@ -237,7 +237,7 @@ Q. What is the difference between an argument and a parameter?
 
 Creating a simple react application
 
-> npx create-react-app hello-react
+
 
 After installation is done.
 
@@ -294,7 +294,7 @@ Task -> Create an application to get the list of users from reqres and show in t
 React Hooks -> They give additional functionality to the React Applications. They let you manage states and props easily.
 
 --------------
-await,async are related we should use both if one iincluded--fetch
+await,async are related we should use both if one inncluded--fetch
 ----------------
 
 Assignment:
@@ -405,8 +405,41 @@ Q. Is MongoDB ACID Compliant?
 
 Username: kits_username
 Password: kits_password
+--------------
+kits_username
+kits_password
+
+ip address
+157.48.226.176/32
+description
+My IP Address
+
+
+
+data base name
+:
+sms_db
+
+collection name:
+students
+
+--------
+to connect abckend
+
+magoose
+mangoose npm
+
+
+https://www.npmjs.com/
+
+https://www.npmjs.com/package/mongoose
+------  
 
 mongoose
+---------
+install mangoose in backend
+then run
+
 
 
 # May-06, 2022
